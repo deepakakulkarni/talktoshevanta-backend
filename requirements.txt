@@ -45,6 +45,7 @@ gruut-lang-de==2.0.1
 gruut-lang-en==2.0.1
 gruut-lang-es==2.0.1
 gruut-lang-fr==2.0.2
+gunicorn
 hangul-romanize==0.1.0
 hf-xet==1.1.5
 huggingface-hub==0.33.2
